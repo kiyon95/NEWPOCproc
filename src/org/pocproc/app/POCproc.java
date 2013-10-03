@@ -92,6 +92,7 @@ public class POCproc {
 			POC32.init();
 			AppWindow.init();
 			POC32.connect();
+        System.out.println("Hello World!");
 	}
 
 }
